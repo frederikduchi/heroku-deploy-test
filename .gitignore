@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+dist/
+heroku/
+vendor/
+
+.env
+
+**/node_modules/
+**/dist/
